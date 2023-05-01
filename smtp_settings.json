@@ -1,8 +1,9 @@
 {
-  "from": "",
-  "to": "",
-  "subject": "",
-  "smtp-server": "",
-  "smtp-user": "",
-  "smtp-password": ""
+  "from": "python@myemail.com",
+  "to": "angel@myemail",
+  "name": "Angel",
+  "subject": "This is a hello world message!",
+  "smtp-server": "smtp.myemail.com",
+  "smtp-user": "python@myemail.com",
+  "smtp-password": "123abc"
 }
